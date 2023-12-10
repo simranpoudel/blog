@@ -1,0 +1,52 @@
+
+METHODOLOGY for User:
+        
+      1.  First we can see the Home page.
+      2.  We can see the Chatbot where anyone can interact with online admin.
+      3.  Anyone can leave their query  through 'Contact Us' page.
+      4.  User can follow us in Facebook and in LinkedIn.
+      5.  He/she can't read more content post by other user until login their account.
+      6.  First User have to create his/her account.
+      7.  User must provide all the valid data required to signup.
+      8.  Unique username is required to signup the new account.
+      9.  As soon as account is created he/she is able to login.
+      10. After login user will move to the user home page.
+      11. In user home page user can upload notes based on the provided categories,views notes and download the  
+          notes.
+      12. User are not able to post any other content that are not included in the category.
+      13. User can edit,update,create,delete their own content.
+      14. User can also able to edit their profile, can change their password.
+      15. We can see the posted content in chronological order including posted date and time.
+      16. We can search all the posted content via 'Search Bar'.
+      17. All activities of user is control by admin.
+      18. Other user uploded content can be read,share,comment and like by others user.
+
+
+
+
+
+
+                    METHODOLOGY for ADMIN :
+
+
+       1.  Admin must have to provided authenticated User Name and Password.
+       2.  After login admin can see the Admin Page.
+       3.  All the data are stored in the administration,hereby we didn't required any external db.
+       4.  All the Posted content are controlled by the admin ,CRUD operation are done by admin.
+       5.  Site administration are divided into two categories i.e.
+           a. Authentication and Authorization     b. Blog
+
+       6.  In Authentication and Authorization section:
+           a. admin can view all the registered account.
+           b. admin can perform CRUD Operation.
+
+       7.  In Blog section:
+           a. admin can add new categories and perform CRUD operation accordingly.
+           b. admin can access to the comments done by the user & can performed CRUD operation.
+           C. messages done by  anyone are controlled by admin.
+           d. admin can add the new content as well as can perform CRUD operation for already posted content by user and admin itself.
+           e. admin can view all the user profile and also can add new profile.
+           
+       8.  Admin can directly visit the ViewSite.
+       9.  Admin can update the password.
+       10. Admin can logout the AdminPage.
